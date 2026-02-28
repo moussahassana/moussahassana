@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Current Focus: Developing an NLP microservice for intent detection and slot filling, integrating voice commands with form interaction.<br><br>🤝 Looking for Collaboration: Interested in discussing and improving solutions related to NLP, machine learning, or backend development.<br><br>🌱 Learning Journey: Continuously exploring advancements in natural language processing and microservice architecture with a focus on FastAPI and real-time applications.<br><br>💬 Tech Stack Expertise: Feel free to ask me about Python, FastAPI, Django, PHP, and Laravel. I also enjoy tackling complex backend challenges!<br><br>⚡ Fun Fact: I believe in the power of humanity and creativity.
-
+Software Engineer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moussahassana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moussahassana) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@moussahassana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/moussahassana) 
